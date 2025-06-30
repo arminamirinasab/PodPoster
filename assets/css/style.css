@@ -1,0 +1,14 @@
+/**
+ * Style adjustments for the WordPress admin menu.
+ * Adds visual spacing and separators for custom post types: "channel" and "episode".
+ */
+
+#menu-posts-channel {
+  margin-top: 10px !important;
+  border-top: solid 1px #ffffff24 !important;
+}
+
+#menu-posts-episode {
+  margin-bottom: 10px !important;
+  border-bottom: solid 1px #ffffff24 !important;
+}

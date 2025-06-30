@@ -1,0 +1,1442 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: PodPoster\n"
+"POT-Creation-Date: 2025-06-30 16:11+0330\n"
+"PO-Revision-Date: 2025-06-30 16:10+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: podposter.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: cmb2/example-functions.php:115
+msgid "Test Metabox"
+msgstr ""
+
+#: cmb2/example-functions.php:148 cmb2/example-functions.php:492
+msgid "Test Text"
+msgstr ""
+
+#: cmb2/example-functions.php:149 cmb2/example-functions.php:162
+#: cmb2/example-functions.php:175 cmb2/example-functions.php:182
+#: cmb2/example-functions.php:195 cmb2/example-functions.php:203
+#: cmb2/example-functions.php:212 cmb2/example-functions.php:220
+#: cmb2/example-functions.php:235 cmb2/example-functions.php:243
+#: cmb2/example-functions.php:251 cmb2/example-functions.php:268
+#: cmb2/example-functions.php:277 cmb2/example-functions.php:293
+#: cmb2/example-functions.php:300 cmb2/example-functions.php:307
+#: cmb2/example-functions.php:332 cmb2/example-functions.php:345
+#: cmb2/example-functions.php:358 cmb2/example-functions.php:370
+#: cmb2/example-functions.php:384 cmb2/example-functions.php:392
+#: cmb2/example-functions.php:401 cmb2/example-functions.php:408
+#: cmb2/example-functions.php:422 cmb2/example-functions.php:493
+#: cmb2/example-functions.php:583 cmb2/example-functions.php:591
+#: cmb2/example-functions.php:598 cmb2/example-functions.php:605
+#: cmb2/example-functions.php:612 cmb2/example-functions.php:619
+#: cmb2/example-functions.php:626 cmb2/example-functions.php:652
+#: cmb2/example-functions.php:660 cmb2/example-functions.php:667
+#: cmb2/example-functions.php:717
+msgid "field description (optional)"
+msgstr ""
+
+#: cmb2/example-functions.php:161
+msgid "Test Text Small"
+msgstr ""
+
+#: cmb2/example-functions.php:174
+msgid "Test Text Medium"
+msgstr ""
+
+#: cmb2/example-functions.php:181
+msgid "Read-only Disabled Field"
+msgstr ""
+
+#: cmb2/example-functions.php:185
+msgid "Hey there, I'm a read-only field"
+msgstr ""
+
+#: cmb2/example-functions.php:194
+msgid "Custom Rendered Field"
+msgstr ""
+
+#: cmb2/example-functions.php:202
+msgid "Website URL"
+msgstr ""
+
+#: cmb2/example-functions.php:211
+msgid "Test Text Email"
+msgstr ""
+
+#: cmb2/example-functions.php:219
+msgid "Test Time"
+msgstr ""
+
+#: cmb2/example-functions.php:227 cmb2/example-functions.php:228
+msgid "Time zone"
+msgstr ""
+
+#: cmb2/example-functions.php:234
+msgid "Test Date Picker"
+msgstr ""
+
+#: cmb2/example-functions.php:242
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: cmb2/example-functions.php:250
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: cmb2/example-functions.php:267
+msgid "Test Money"
+msgstr ""
+
+#: cmb2/example-functions.php:276
+msgid "Test Color Picker"
+msgstr ""
+
+#: cmb2/example-functions.php:292
+msgid "Test Text Area"
+msgstr ""
+
+#: cmb2/example-functions.php:299
+msgid "Test Text Area Small"
+msgstr ""
+
+#: cmb2/example-functions.php:306
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: cmb2/example-functions.php:324
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: cmb2/example-functions.php:325
+msgid "This is a title description"
+msgstr ""
+
+#: cmb2/example-functions.php:331
+msgid "Test Select"
+msgstr ""
+
+#: cmb2/example-functions.php:337 cmb2/example-functions.php:350
+#: cmb2/example-functions.php:362
+msgid "Option One"
+msgstr ""
+
+#: cmb2/example-functions.php:338 cmb2/example-functions.php:351
+#: cmb2/example-functions.php:363
+msgid "Option Two"
+msgstr ""
+
+#: cmb2/example-functions.php:339 cmb2/example-functions.php:352
+#: cmb2/example-functions.php:364
+msgid "Option Three"
+msgstr ""
+
+#: cmb2/example-functions.php:344
+msgid "Test Radio inline"
+msgstr ""
+
+#: cmb2/example-functions.php:357
+msgid "Test Radio"
+msgstr ""
+
+#: cmb2/example-functions.php:369
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: cmb2/example-functions.php:383
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: cmb2/example-functions.php:391
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: cmb2/example-functions.php:400
+msgid "Test Checkbox"
+msgstr ""
+
+#: cmb2/example-functions.php:407
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: cmb2/example-functions.php:413
+msgid "Check One"
+msgstr ""
+
+#: cmb2/example-functions.php:414
+msgid "Check Two"
+msgstr ""
+
+#: cmb2/example-functions.php:415
+msgid "Check Three"
+msgstr ""
+
+#: cmb2/example-functions.php:421
+msgid "Test wysiwyg"
+msgstr ""
+
+#: cmb2/example-functions.php:431
+msgid "Test Image"
+msgstr ""
+
+#: cmb2/example-functions.php:432
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: cmb2/example-functions.php:438
+msgid "Multiple Files"
+msgstr ""
+
+#: cmb2/example-functions.php:439
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: cmb2/example-functions.php:446
+msgid "oEmbed"
+msgstr ""
+
+#. translators: %s: link to codex.wordpress.org/Embeds
+#: cmb2/example-functions.php:449
+#, php-format
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at %s."
+msgstr ""
+
+#: cmb2/example-functions.php:481
+msgid "About Page Metabox"
+msgstr ""
+
+#: cmb2/example-functions.php:511
+msgid "Repeating Field Group"
+msgstr ""
+
+#: cmb2/example-functions.php:519
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: cmb2/example-functions.php:521
+msgid "Entry {#}"
+msgstr ""
+
+#: cmb2/example-functions.php:522
+msgid "Add Another Entry"
+msgstr ""
+
+#: cmb2/example-functions.php:523
+msgid "Remove Entry"
+msgstr ""
+
+#: cmb2/example-functions.php:537
+msgid "Entry Title"
+msgstr ""
+
+#: cmb2/example-functions.php:544
+msgid "Description"
+msgstr ""
+
+#: cmb2/example-functions.php:545
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: cmb2/example-functions.php:551
+msgid "Entry Image"
+msgstr ""
+
+#: cmb2/example-functions.php:557
+msgid "Image Caption"
+msgstr ""
+
+#: cmb2/example-functions.php:575
+msgid "User Profile Metabox"
+msgstr ""
+
+#: cmb2/example-functions.php:582 cmb2/example-functions.php:651
+msgid "Extra Info"
+msgstr ""
+
+#: cmb2/example-functions.php:590
+msgid "Avatar"
+msgstr ""
+
+#: cmb2/example-functions.php:597
+msgid "Facebook URL"
+msgstr ""
+
+#: cmb2/example-functions.php:604
+msgid "Twitter URL"
+msgstr ""
+
+#: cmb2/example-functions.php:611
+msgid "Google+ URL"
+msgstr ""
+
+#: cmb2/example-functions.php:618
+msgid "Linkedin URL"
+msgstr ""
+
+#: cmb2/example-functions.php:625
+msgid "User Field"
+msgstr ""
+
+#: cmb2/example-functions.php:644
+msgid "Category Metabox"
+msgstr ""
+
+#: cmb2/example-functions.php:659
+msgid "Term Image"
+msgstr ""
+
+#: cmb2/example-functions.php:666
+msgid "Arbitrary Term Field"
+msgstr ""
+
+#: cmb2/example-functions.php:685
+msgid "Theme Options"
+msgstr ""
+
+#: cmb2/example-functions.php:716
+msgid "Site Background Color"
+msgstr ""
+
+#: cmb2/example-functions.php:753
+#, php-format
+msgid "%s &mdash; Updated!"
+msgstr ""
+
+#: cmb2/example-functions.php:785
+msgid "REST Test Box"
+msgstr ""
+
+#: cmb2/example-functions.php:794
+msgid "REST Test Text"
+msgstr ""
+
+#: cmb2/example-functions.php:795
+msgid "Will show in the REST API for this box and for pages."
+msgstr ""
+
+#: cmb2/example-functions.php:801
+msgid "REST Editable Test Text"
+msgstr ""
+
+#: cmb2/example-functions.php:802
+msgid "Will show in REST API \"editable\" contexts only (`POST` requests)."
+msgstr ""
+
+#: cmb2/includes/CMB2.php:207
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr ""
+
+#: cmb2/includes/CMB2.php:626
+msgid "Click to toggle"
+msgstr ""
+
+#: cmb2/includes/CMB2_Ajax.php:75
+msgid "Please Try Again"
+msgstr ""
+
+#: cmb2/includes/CMB2_Ajax.php:181
+msgid "Remove Embed"
+msgstr ""
+
+#. translators: 1: results for. 2: link to codex.wordpress.org/Embeds
+#: cmb2/includes/CMB2_Ajax.php:189 cmb2/includes/helper-functions.php:107
+#, php-format
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr ""
+
+#: cmb2/includes/CMB2_Base.php:423
+#, php-format
+msgid ""
+"The \"%1$s\" field parameter has been deprecated in favor of the \"%2$s\" "
+"parameter."
+msgstr ""
+
+#: cmb2/includes/CMB2_Base.php:427
+#, php-format
+msgid ""
+"Using the \"%1$s\" field parameter as a callback has been deprecated in "
+"favor of the \"%2$s\" parameter."
+msgstr ""
+
+#: cmb2/includes/CMB2_Base.php:457
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+msgstr ""
+
+#: cmb2/includes/CMB2_Base.php:459
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+
+#: cmb2/includes/CMB2_Base.php:492 cmb2/includes/CMB2_Hookup_Base.php:102
+#: cmb2/includes/CMB2_Options.php:247 cmb2/includes/CMB2_Options_Hookup.php:369
+#: cmb2/includes/types/CMB2_Type_Base.php:173
+#, php-format
+msgid "Invalid %1$s property: %2$s"
+msgstr ""
+
+#: cmb2/includes/CMB2_Base.php:510 cmb2/includes/types/CMB2_Type_Base.php:157
+#, php-format
+msgid "Invalid %1$s method: %2$s"
+msgstr ""
+
+#: cmb2/includes/CMB2_Field.php:1443
+msgid "Add Group"
+msgstr ""
+
+#: cmb2/includes/CMB2_Field.php:1444
+msgid "Remove Group"
+msgstr ""
+
+#: cmb2/includes/CMB2_Field.php:1476 cmb2/includes/CMB2_Field.php:1480
+msgid "None"
+msgstr ""
+
+#: cmb2/includes/CMB2_Field.php:1594
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: cmb2/includes/CMB2_Field_Display.php:454 cmb2/includes/CMB2_JS.php:242
+#: cmb2/includes/types/CMB2_Type_File_Base.php:90
+msgid "File:"
+msgstr ""
+
+#: cmb2/includes/CMB2_Hookup.php:191
+msgid ""
+"Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: cmb2/includes/CMB2_Hookup.php:195
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr ""
+
+#. translators: %s: name of CMB2 box (panel)
+#: cmb2/includes/CMB2_Hookup.php:579
+#, php-format
+msgid "Toggle panel: %s"
+msgstr ""
+
+#: cmb2/includes/CMB2_Hookup_Base.php:44
+#, php-format
+msgid "%1$s should be implemented by the extended class."
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:177 cmb2/includes/CMB2_JS.php:222
+msgid "Clear"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:178
+msgid "Default"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:179
+msgid "Select Color"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:180
+msgid "Current Color"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:212
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:213
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:214
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:215
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:216
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:217
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:218
+msgid "Next"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:219
+msgid "Prev"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:220
+msgid "Today"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:221 cmb2/includes/CMB2_JS.php:231
+msgid "Done"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:225
+msgid "Choose Time"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:226
+msgid "Time"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:227
+msgid "Hour"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:228
+msgid "Minute"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:229
+msgid "Second"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:230
+msgid "Now"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:232
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:238
+msgid "Use this file"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:239
+msgid "Use these files"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:240 cmb2/includes/types/CMB2_Type_File_Base.php:75
+msgid "Remove Image"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:241 cmb2/includes/CMB2_Types.php:408
+#: cmb2/includes/types/CMB2_Type_File_Base.php:95
+msgid "Remove"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:243 cmb2/includes/types/CMB2_Type_File_Base.php:93
+msgid "Download"
+msgstr ""
+
+#: cmb2/includes/CMB2_JS.php:244
+msgid "Select / Deselect All"
+msgstr ""
+
+#: cmb2/includes/CMB2_Options_Hookup.php:139
+msgid "Nothing to update."
+msgstr ""
+
+#: cmb2/includes/CMB2_Options_Hookup.php:143
+msgid "Settings updated."
+msgstr ""
+
+#: cmb2/includes/CMB2_Types.php:226
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr ""
+
+#: cmb2/includes/CMB2_Types.php:344
+msgid "Add Row"
+msgstr ""
+
+#: cmb2/includes/CMB2_Types.php:408
+msgid "Remove Row"
+msgstr ""
+
+#: cmb2/includes/helper-functions.php:308
+msgid "Save"
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller.php:257
+msgid "This box does not have read permissions."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller.php:277
+msgid "This box does not have write permissions."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller.php:300
+msgid ""
+"No box found by that id. A box needs to be registered with the \"show_in_rest"
+"\" parameter configured."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller.php:378
+msgid "A human-readable description of the object."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller.php:385
+msgid "The id for the object."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller.php:392
+msgid "The title for the object."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+msgid "Includes the registered fields for the box in the response."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid ""
+"Includes the fully rendered attributes, 'form_open', 'form_close', as well "
+"as the enqueued 'js_dependencies' script handles, and 'css_dependencies' "
+"stylesheet handles."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid ""
+"Includes the box object which the fields are registered to in the response."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid ""
+"When the '_rendered' argument is passed, the renderable field attributes "
+"will be returned fully rendered. By default, the names of the callback "
+"handers for the renderable attributes will be returned."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid ""
+"To view or modify the field's value, the 'object_id' and 'object_type' "
+"arguments are required."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid ""
+"CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+msgid ""
+"CMB2 Field value cannot be modified without the object_id and object_type "
+"parameters specified."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+msgid "No field found by that id."
+msgstr ""
+
+#: cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+#, php-format
+msgid "Value Error for %s"
+msgstr ""
+
+#. translators: %s: register_routes()
+#: cmb2/includes/shim/WP_REST_Controller.php:25
+#, php-format
+msgid "Method '%s' must be overridden."
+msgstr ""
+
+#: cmb2/includes/shim/WP_REST_Controller.php:35
+#: cmb2/includes/shim/WP_REST_Controller.php:47
+#: cmb2/includes/shim/WP_REST_Controller.php:59
+#: cmb2/includes/shim/WP_REST_Controller.php:71
+#: cmb2/includes/shim/WP_REST_Controller.php:83
+#: cmb2/includes/shim/WP_REST_Controller.php:95
+#: cmb2/includes/shim/WP_REST_Controller.php:107
+#: cmb2/includes/shim/WP_REST_Controller.php:119
+#: cmb2/includes/shim/WP_REST_Controller.php:131
+#: cmb2/includes/shim/WP_REST_Controller.php:143
+#: cmb2/includes/shim/WP_REST_Controller.php:155
+#: cmb2/includes/shim/WP_REST_Controller.php:168
+#, php-format
+msgid "Method '%s' not implemented. Must be overridden in subclass."
+msgstr ""
+
+#: cmb2/includes/shim/WP_REST_Controller.php:273
+msgid "Current page of the collection."
+msgstr ""
+
+#: cmb2/includes/shim/WP_REST_Controller.php:281
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: cmb2/includes/shim/WP_REST_Controller.php:290
+msgid "Limit results to those matching a string."
+msgstr ""
+
+#: cmb2/includes/shim/WP_REST_Controller.php:308
+msgid ""
+"Scope under which the request is made; determines fields present in response."
+msgstr ""
+
+#: cmb2/includes/types/CMB2_Type_Counter_Base.php:50
+msgid "Words left"
+msgstr ""
+
+#: cmb2/includes/types/CMB2_Type_Counter_Base.php:51
+msgid "Words"
+msgstr ""
+
+#: cmb2/includes/types/CMB2_Type_Counter_Base.php:56
+msgid "Characters left"
+msgstr ""
+
+#: cmb2/includes/types/CMB2_Type_Counter_Base.php:57
+msgid "Characters"
+msgstr ""
+
+#: cmb2/includes/types/CMB2_Type_Counter_Base.php:62
+msgid "Your text may be truncated."
+msgstr ""
+
+#: cmb2/includes/types/CMB2_Type_File.php:76
+msgid "Add or Upload File"
+msgstr ""
+
+#: cmb2/includes/types/CMB2_Type_File_List.php:41
+msgid "Add or Upload Files"
+msgstr ""
+
+#: cmb2/includes/types/CMB2_Type_Taxonomy_Base.php:115
+msgid "No terms"
+msgstr ""
+
+#: inc/admin.php:18 inc/admin.php:25
+msgid ""
+"Recommended dimensions: 1400x1400 to 3000x3000 pixels (as required by "
+"podcast platforms)."
+msgstr ""
+
+#: inc/admin.php:19
+msgid ""
+"This is the main cover for your podcast channel. If no cover is set for an "
+"episode, podcast players will use this image for both the channel and its "
+"episodes."
+msgstr ""
+
+#: inc/admin.php:26
+msgid ""
+"You can upload a custom cover for this episode. If none is set, the channel "
+"cover will be used as a fallback."
+msgstr ""
+
+#: inc/admin.php:44
+msgid ""
+"PodPoster helps your voice reach the world. Thank you for trusting us :)"
+msgstr ""
+
+#: inc/generator.php:234
+msgid "RSS feed updated successfully."
+msgstr ""
+
+#: inc/generator.php:240
+msgid "An error occurred while updating the RSS feed."
+msgstr ""
+
+#: inc/generator.php:295
+msgid ""
+"The requested RSS feed was not found. If you are confident about the "
+"registered address, please update the permalinks."
+msgstr ""
+
+#: inc/generator.php:296
+msgid "Not Found"
+msgstr ""
+
+#: inc/post_types.php:12 inc/post_types.php:17
+msgid "Podcasts"
+msgstr ""
+
+#: inc/post_types.php:13
+msgid "Podcast channels"
+msgstr ""
+
+#: inc/post_types.php:15
+msgctxt "Post Type General Name"
+msgid "Podcasts"
+msgstr ""
+
+#: inc/post_types.php:16
+msgctxt "Post Type Singular Name"
+msgid "Podcast"
+msgstr ""
+
+#: inc/post_types.php:18
+msgid "Podcast"
+msgstr ""
+
+#: inc/post_types.php:19
+msgid "Podcast Archives"
+msgstr ""
+
+#: inc/post_types.php:20
+msgid "Podcast Attributes"
+msgstr ""
+
+#: inc/post_types.php:21
+msgid "Parent Podcast:"
+msgstr ""
+
+#: inc/post_types.php:22
+msgid "All Podcasts"
+msgstr ""
+
+#: inc/post_types.php:23
+msgid "Add New Podcast"
+msgstr ""
+
+#: inc/post_types.php:24
+msgid "Add Podcast"
+msgstr ""
+
+#: inc/post_types.php:25
+msgid "New Podcast"
+msgstr ""
+
+#: inc/post_types.php:26
+msgid "Edit Podcast"
+msgstr ""
+
+#: inc/post_types.php:27
+msgid "Update Podcast"
+msgstr ""
+
+#: inc/post_types.php:28
+msgid "View Podcast"
+msgstr ""
+
+#: inc/post_types.php:29
+msgid "View Podcasts"
+msgstr ""
+
+#: inc/post_types.php:30
+msgid "Search Podcasts"
+msgstr ""
+
+#: inc/post_types.php:31
+msgid "No podcasts found."
+msgstr ""
+
+#: inc/post_types.php:32
+msgid "No podcasts found in Trash."
+msgstr ""
+
+#: inc/post_types.php:33
+msgid "Podcast Cover Image"
+msgstr ""
+
+#: inc/post_types.php:34 inc/post_types.php:84
+msgid "Set Cover Image"
+msgstr ""
+
+#: inc/post_types.php:35 inc/post_types.php:85
+msgid "Remove Cover Image"
+msgstr ""
+
+#: inc/post_types.php:36 inc/post_types.php:86
+msgid "Use as Cover Image"
+msgstr ""
+
+#: inc/post_types.php:37
+msgid "Insert into podcast"
+msgstr ""
+
+#: inc/post_types.php:38
+msgid "Uploaded to this podcast"
+msgstr ""
+
+#: inc/post_types.php:39
+msgid "Podcasts list"
+msgstr ""
+
+#: inc/post_types.php:40
+msgid "Podcasts list navigation"
+msgstr ""
+
+#: inc/post_types.php:41
+msgid "Filter podcasts list"
+msgstr ""
+
+#: inc/post_types.php:62 inc/post_types.php:67
+msgid "Episodes"
+msgstr ""
+
+#: inc/post_types.php:63
+msgid "Podcast episodes"
+msgstr ""
+
+#: inc/post_types.php:65
+msgctxt "Post Type General Name"
+msgid "Episodes"
+msgstr ""
+
+#: inc/post_types.php:66
+msgctxt "Post Type Singular Name"
+msgid "Episode"
+msgstr ""
+
+#: inc/post_types.php:68
+msgid "Episode"
+msgstr ""
+
+#: inc/post_types.php:69
+msgid "Episode Archives"
+msgstr ""
+
+#: inc/post_types.php:70
+msgid "Episode Attributes"
+msgstr ""
+
+#: inc/post_types.php:71
+msgid "Parent Episode:"
+msgstr ""
+
+#: inc/post_types.php:72
+msgid "All Episodes"
+msgstr ""
+
+#: inc/post_types.php:73
+msgid "Add New Episode"
+msgstr ""
+
+#: inc/post_types.php:74
+msgid "Add Episode"
+msgstr ""
+
+#: inc/post_types.php:75
+msgid "New Episode"
+msgstr ""
+
+#: inc/post_types.php:76
+msgid "Edit Episode"
+msgstr ""
+
+#: inc/post_types.php:77
+msgid "Update Episode"
+msgstr ""
+
+#: inc/post_types.php:78
+msgid "View Episode"
+msgstr ""
+
+#: inc/post_types.php:79
+msgid "View Episodes"
+msgstr ""
+
+#: inc/post_types.php:80
+msgid "Search Episodes"
+msgstr ""
+
+#: inc/post_types.php:81
+msgid "No episodes found."
+msgstr ""
+
+#: inc/post_types.php:82
+msgid "No episodes found in Trash."
+msgstr ""
+
+#: inc/post_types.php:83
+msgid "Episode Cover Image"
+msgstr ""
+
+#: inc/post_types.php:87
+msgid "Insert into episode"
+msgstr ""
+
+#: inc/post_types.php:88
+msgid "Uploaded to this episode"
+msgstr ""
+
+#: inc/post_types.php:89
+msgid "Episodes list"
+msgstr ""
+
+#: inc/post_types.php:90
+msgid "Episodes list navigation"
+msgstr ""
+
+#: inc/post_types.php:91
+msgid "Filter episodes list"
+msgstr ""
+
+#: inc/post_types.php:114
+msgctxt "Taxonomy General Name"
+msgid "Categories"
+msgstr ""
+
+#: inc/post_types.php:115
+msgctxt "Taxonomy Singular Name"
+msgid "Category"
+msgstr ""
+
+#: inc/post_types.php:116
+msgid "Categories"
+msgstr ""
+
+#: inc/post_types.php:117
+msgid "All Categories"
+msgstr ""
+
+#: inc/post_types.php:118
+msgid "New Category Name"
+msgstr ""
+
+#: inc/post_types.php:119
+msgid "Add New Category"
+msgstr ""
+
+#: inc/post_types.php:120
+msgid "Edit Category"
+msgstr ""
+
+#: inc/post_types.php:121
+msgid "Update Category"
+msgstr ""
+
+#: inc/post_types.php:122
+msgid "View Category"
+msgstr ""
+
+#: inc/post_types.php:123
+msgid "Separate categories with commas"
+msgstr ""
+
+#: inc/post_types.php:124
+msgid "Add or remove categories"
+msgstr ""
+
+#: inc/post_types.php:125
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: inc/post_types.php:126
+msgid "Popular Categories"
+msgstr ""
+
+#: inc/post_types.php:127
+msgid "Search Categories"
+msgstr ""
+
+#: inc/post_types.php:128
+msgid "No categories found."
+msgstr ""
+
+#: inc/post_types.php:129
+msgid "No categories"
+msgstr ""
+
+#: inc/post_types.php:130
+msgid "Categories list"
+msgstr ""
+
+#: inc/post_types.php:131
+msgid "Categories list navigation"
+msgstr ""
+
+#: options.php:33
+msgid "Podcast Settings"
+msgstr ""
+
+#: options.php:39
+msgid "RSS Feed Link"
+msgstr ""
+
+#: options.php:40
+#, php-format
+msgid "Use this <a href='%s'>RSS link</a> to register your podcast."
+msgstr ""
+
+#: options.php:53
+msgid "Podcast Description"
+msgstr ""
+
+#: options.php:54
+msgid "Write a short description for your podcast."
+msgstr ""
+
+#: options.php:64
+msgid "Podcast Category"
+msgstr ""
+
+#: options.php:65
+msgid "Select a category that best fits your podcast."
+msgstr ""
+
+#: options.php:69
+msgid "Arts"
+msgstr ""
+
+#: options.php:70
+msgid "Arts > Design"
+msgstr ""
+
+#: options.php:71
+msgid "Arts > Fashion & Beauty"
+msgstr ""
+
+#: options.php:72
+msgid "Arts > Food"
+msgstr ""
+
+#: options.php:73
+msgid "Arts > Performing Arts"
+msgstr ""
+
+#: options.php:74
+msgid "Arts > Visual Arts"
+msgstr ""
+
+#: options.php:75
+msgid "Business"
+msgstr ""
+
+#: options.php:76
+msgid "Business > Careers"
+msgstr ""
+
+#: options.php:77
+msgid "Business > Entrepreneurship"
+msgstr ""
+
+#: options.php:78
+msgid "Business > Investing"
+msgstr ""
+
+#: options.php:79
+msgid "Business > Management"
+msgstr ""
+
+#: options.php:80
+msgid "Business > Marketing"
+msgstr ""
+
+#: options.php:81
+msgid "Business > Non-Profit"
+msgstr ""
+
+#: options.php:82
+msgid "Comedy"
+msgstr ""
+
+#: options.php:83
+msgid "Education"
+msgstr ""
+
+#: options.php:84
+msgid "Education > Courses"
+msgstr ""
+
+#: options.php:85
+msgid "Education > How To"
+msgstr ""
+
+#: options.php:86
+msgid "Education > Language Learning"
+msgstr ""
+
+#: options.php:87
+msgid "Education > Self-Improvement"
+msgstr ""
+
+#: options.php:88
+msgid "Health & Fitness"
+msgstr ""
+
+#: options.php:89
+msgid "Health & Fitness > Fitness"
+msgstr ""
+
+#: options.php:90
+msgid "Health & Fitness > Medicine"
+msgstr ""
+
+#: options.php:91
+msgid "Health & Fitness > Mental Health"
+msgstr ""
+
+#: options.php:92
+msgid "Health & Fitness > Nutrition"
+msgstr ""
+
+#: options.php:93
+msgid "Health & Fitness > Sexuality"
+msgstr ""
+
+#: options.php:94
+msgid "History"
+msgstr ""
+
+#: options.php:95
+msgid "Kids & Family"
+msgstr ""
+
+#: options.php:96
+msgid "Leisure"
+msgstr ""
+
+#: options.php:97
+msgid "Leisure > Animation & Manga"
+msgstr ""
+
+#: options.php:98
+msgid "Leisure > Automotive"
+msgstr ""
+
+#: options.php:99
+msgid "Leisure > Aviation"
+msgstr ""
+
+#: options.php:100
+msgid "Leisure > Crafts"
+msgstr ""
+
+#: options.php:101
+msgid "Leisure > Games"
+msgstr ""
+
+#: options.php:102
+msgid "Leisure > Hobbies"
+msgstr ""
+
+#: options.php:103
+msgid "Leisure > Home & Garden"
+msgstr ""
+
+#: options.php:104
+msgid "Leisure > Video Games"
+msgstr ""
+
+#: options.php:105
+msgid "Music"
+msgstr ""
+
+#: options.php:106
+msgid "News"
+msgstr ""
+
+#: options.php:107
+msgid "Religion & Spirituality"
+msgstr ""
+
+#: options.php:108
+msgid "Science"
+msgstr ""
+
+#: options.php:109
+msgid "Society & Culture"
+msgstr ""
+
+#: options.php:110
+msgid "Sports"
+msgstr ""
+
+#: options.php:111
+msgid "Technology"
+msgstr ""
+
+#: options.php:112
+msgid "True Crime"
+msgstr ""
+
+#: options.php:113
+msgid "TV & Film"
+msgstr ""
+
+#: options.php:122
+msgid "Publisher Name"
+msgstr ""
+
+#: options.php:123
+msgid "Name of the podcast publisher."
+msgstr ""
+
+#: options.php:133
+msgid "Copyright Notice"
+msgstr ""
+
+#: options.php:134
+msgid "Copyright notice for your podcast."
+msgstr ""
+
+#: options.php:141
+msgid "Podcast Language"
+msgstr ""
+
+#: options.php:142
+msgid "Select the language of your podcast."
+msgstr ""
+
+#: options.php:147
+msgid "English"
+msgstr ""
+
+#: options.php:148
+msgid "Spanish"
+msgstr ""
+
+#: options.php:149
+msgid "German"
+msgstr ""
+
+#: options.php:150
+msgid "French"
+msgstr ""
+
+#: options.php:151
+msgid "Italian"
+msgstr ""
+
+#: options.php:152
+msgid "Portuguese"
+msgstr ""
+
+#: options.php:153
+msgid "Persian"
+msgstr ""
+
+#: options.php:154
+msgid "Arabic"
+msgstr ""
+
+#: options.php:155
+msgid "Russian"
+msgstr ""
+
+#: options.php:156
+msgid "Turkish"
+msgstr ""
+
+#: options.php:157
+msgid "Chinese (Simplified)"
+msgstr ""
+
+#: options.php:158
+msgid "Japanese"
+msgstr ""
+
+#: options.php:159
+msgid "Korean"
+msgstr ""
+
+#: options.php:160
+msgid "Dutch"
+msgstr ""
+
+#: options.php:161
+msgid "Swedish"
+msgstr ""
+
+#: options.php:162
+msgid "Hindi"
+msgstr ""
+
+#: options.php:163
+msgid "Polish"
+msgstr ""
+
+#: options.php:164
+msgid "Thai"
+msgstr ""
+
+#: options.php:174
+msgid "Explicit Content"
+msgstr ""
+
+#: options.php:175
+msgid "Mark if the content is explicit."
+msgstr ""
+
+#: options.php:182
+msgid "Verification Email"
+msgstr ""
+
+#: options.php:183
+msgid "Email used for ownership verification."
+msgstr ""
+
+#: options.php:194
+msgid "Episode Settings"
+msgstr ""
+
+#: options.php:211
+msgid "Podcast Channel"
+msgstr ""
+
+#: options.php:212
+msgid "Select the channel this episode belongs to."
+msgstr ""
+
+#: options.php:223
+msgid "Audio File URL"
+msgstr ""
+
+#: options.php:233
+msgid "Audio Duration (mm:ss)"
+msgstr ""
+
+#: options.php:240
+msgid "Audio File Size (bytes)"
+msgstr ""
+
+#: podposter.php:60
+msgid "Welcome back to PodPoster!"
+msgstr ""
+
+#: podposter.php:63
+msgid "PodPoster activated successfully."
+msgstr ""
+
+#: podposter.php:65
+msgid "Could not create RSS directory during activation."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PodPoster"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://arminamirinasab.ir/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"PodPoster is Podcast Publishing Plugin for WordPress. it transforms your "
+"site into a podcast hosting service—simple, standard, and free."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Armin Amiri Nasab"
+msgstr ""
